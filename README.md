@@ -11,7 +11,7 @@ This project is WeChat small program login authorization module based on Python 
 
 #### 二、安装cryptography
     pip install cryptography
-* 系统默认会配置好Pyhton的环境变量，之后需要在cmd中安装两个Python第三方库
+* 系统默认会配置好Pyhton的环境变量，之后需要在cmd中安装一个Python第三方库
     
 #### 三、调用方法
     from wechat import wx_code_crypto, wx_data_crypto
