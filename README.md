@@ -1,5 +1,6 @@
 # weixin-auth
 基于python封装微信小程序登录授权模块
+前端需要向服务器一次性传递code, encrypted_data, iv这三个参数
 
 This project is WeChat small program login authorization module based on Python encapsulatio.
 
