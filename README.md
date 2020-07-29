@@ -8,7 +8,7 @@
 
 ### 二、安装cryptography
 ```
-pip install cryptography`
+pip install cryptography
 ```
 
 ### 三、调用方法
