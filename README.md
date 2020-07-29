@@ -1,6 +1,6 @@
 # weixin-auth
 基于python封装微信小程序登录授权模块  
-前端只需向服务器一次性传递`code, encrypted_data, iv`这三个参数即可获取openid
+前端只需向服务器一次性传递 `code`, `encrypted_data`, `iv` 这三个参数即可获取openid
 
 ## 使用步骤
 ### 一、安装Python3
